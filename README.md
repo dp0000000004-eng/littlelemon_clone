@@ -41,7 +41,7 @@ A Django-based web application designed to manage restaurant operations such as 
     ```bash
     python manage.py makemigrations
     python manage.py migrate
-    Create a superuser
+    Create a superuser 
 5. **Create Superser for Admin Panel**
     ```bash
     python manage.py createsuperuser
